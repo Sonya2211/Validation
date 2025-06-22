@@ -48,8 +48,13 @@ This is a simple and modern **registration form** built using **HTML**, **CSS**,
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
+```plaintext
 📁 registration-form-project/
-├── index.html # Main HTML file
-├── index2.css # CSS styling file
-├── index3.js # JavaScript file (form logic + validation)
-└── README.md # Project documentation
+├── index.html         # Main HTML file
+├── index2.css         # CSS styling file
+├── index3.js          # JavaScript file (form logic + validation)
+└── README.md          # Project documentation
+
+```
